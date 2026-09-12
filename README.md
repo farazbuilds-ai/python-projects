@@ -8,7 +8,8 @@ This repository contains my beginner python projects.
 - Password Generator.
 - Parking Fee Calculator.
 - Student Result System.
-- Temperature Converter. 
+- Temperature Converter.
+- Snake,Water and Gun Game.
 ## Goal
 Building Python skills through projects.
 ## Language
