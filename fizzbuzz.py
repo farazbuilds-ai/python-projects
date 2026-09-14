@@ -8,4 +8,4 @@ while R<=50:
      print("Buzz")
    else:
      print(R)
-     R+=1
+   R+=1
